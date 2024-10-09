@@ -1,0 +1,10 @@
+{
+    "env": {
+        "USER_NAME": "Anidarr",
+        "USER_PASSWORD": "Aniket123",
+        "PORT": 5000,
+        "CLOUD_NAME": "dpd3exrhy",
+        "API_KEY": "413439297841935",
+        "API_SECRET": "FMrsUtZEFddG0NcCiT-hkXa50_s"
+    }
+}
